@@ -10,3 +10,9 @@ public class App {
         macApp.run();
     }
 }
+
+// Output
+// You clicked windows button!
+// Windows Checkbox is checked
+// You clicked Mac button!
+// Mac Checkbox is checked
